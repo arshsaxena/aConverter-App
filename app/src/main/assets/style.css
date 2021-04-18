@@ -1,0 +1,35 @@
+body {
+    height: 100%;
+    margin: auto;
+    background-color:  black;
+    font-family: font-regular;
+}
+b{
+    font-family: font-bold;
+}
+.caption{
+    height: 300px;
+    position: relative;
+    max-width: 702px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.caption-text{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: 0px;
+    margin: 20px;
+    position: absolute;
+    top: 40%;
+}
+.caption-text a{
+    color: white;
+    text-decoration: none;
+}
+#clock{
+    font-weight: normal;
+    font-size: 19px;
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376294294145",
+    "project_id": "aconverterbyarsh-app",
+    "storage_bucket": "aconverterbyarsh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376294294145:android:d74e3d1886bf1a1bd98380",
+        "android_client_info": {
+          "package_name": "com.arshsaxena.github.io.aconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376294294145-c3outbaqka89kvoclmgc4kvqq4dift1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOFZrlWogdeuoXsNxU264F-f26nXfuV4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376294294145-c3outbaqka89kvoclmgc4kvqq4dift1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

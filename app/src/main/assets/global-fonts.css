@@ -1,0 +1,37 @@
+@font-face{
+    font-family: "font-regular";
+    src: url('fonts/font-regular.otf');
+}
+@font-face{
+    font-family: "font-bold";
+    src: url('fonts/font-bold.otf');
+}
+@font-face{
+    font-family: "font-italic";
+    src: url('fonts/font-italic.otf');
+}
+@font-face{
+    font-family: "font-condensed";
+    src: url('fonts/font-compact.otf');
+}
+@font-face{
+    font-family: "font-mono";
+    src: url('fonts/font-mono.otf');
+}
+@font-face{
+    font-family: "font-hindi";
+    src: url('fonts/font-hindi.ttf');
+}
+
+body{
+    font-family: font-regular !important;
+}
+b{
+    font-family: font-bold !important;
+}
+code{
+    font-family: font-mono !important;
+}
+#hindi-text{
+    font-family: font-hindi !important;
+}
