@@ -68,9 +68,9 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
             if(haveNetworkConnection()){
-                myWebView.loadUrl("https://arshsaxena.github.io/aconverter");
+                myWebView.loadUrl("https://arshsaxena.github.io/aConverter/");
             } else {
-                myWebView.loadUrl("file:///android_asset/noNetwork.html");
+                myWebView.loadUrl("file:///android_asset/noNetwork.html/");
             }
         }
     }
